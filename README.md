@@ -1,2 +1,2 @@
 # IBM_ds_capstone
-IBM data science capstone project
+IBM Data Science Professional Certificate Capstone project
